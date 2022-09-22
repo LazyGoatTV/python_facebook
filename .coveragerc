@@ -1,2 +1,0 @@
-[run]
-omit = pyfacebook/__version__.py
